@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Cores
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Azul #086BAC
+Ghost White #FBFCFF
+Dark Liver #50514F
+Pale Cyan #84D2F6
+Sunset Orange #F25F5C
+Flavescent #F5EE9E
+Jungle Green #26C485
+Mustard #FFC857
+Ivory #FBFFF1
+Eggshell #EFEFD0
+Isabelline #EEEEEE
